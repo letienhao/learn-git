@@ -2,5 +2,6 @@ button {
   background-color: black;
 }
 body {
-  background-color: blue;
+  background-color: red;
+  margin-top: 10px;
 }
